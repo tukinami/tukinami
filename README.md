@@ -1,6 +1,10 @@
 月波 清火(tukinami seika)
 
-使用言語(Language): 日本語、Rust、(TypeScript etc)...
+使用可能言語(Language): 日本語、Rust、(TypeScript) etc...
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tukinami&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukinami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👋 Hi, I’m @tukinami
